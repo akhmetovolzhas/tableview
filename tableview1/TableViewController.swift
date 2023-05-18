@@ -22,6 +22,8 @@ class TableViewController: UITableViewController {
                        Person(name: "Lily", surname: "Aldrins", imagename: "lily"),
                        Person(name: "Marshall", surname: "Esriksen", imagename: "marshall")]
 
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
